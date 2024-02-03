@@ -1,0 +1,16 @@
+package Task08;
+
+public class Basic {
+	public static void main(String[] args) {
+        // Store an integer
+        int number = 16;
+
+        // Check if it's an even number
+        if (number % 2 == 0) {
+            System.out.println(number + " is an even number.");
+        } else {
+            System.out.println(number + " is not an even number.");
+        }
+    }
+}
+

@@ -1,0 +1,24 @@
+package Task08;
+
+public class Basic {
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		// Declare integer variables
+        int a = 10	;
+        int b = 50;
+        int c = 10;
+        int d = 10;
+
+        // Check whether the sum of a and b is greater than the sum of c and d
+        if (a + b > c + d) {
+            System.out.println("The sum of a and b is greater than the sum of c and d.");
+        }
+    }
+}
+
+
+	
